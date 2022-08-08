@@ -1,0 +1,734 @@
+,filename,category,category_str
+0,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1120.png,2,Viral Pneumonia
+1,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-932.png,1,Covid
+2,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-833.png,1,Covid
+3,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1252.png,2,Viral Pneumonia
+4,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-389.png,0,Normal
+5,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-325.png,2,Viral Pneumonia
+6,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-207.png,0,Normal
+7,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-809.png,2,Viral Pneumonia
+8,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-791.png,2,Viral Pneumonia
+9,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-724.png,2,Viral Pneumonia
+10,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1123.png,2,Viral Pneumonia
+11,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-971.png,1,Covid
+12,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-626.png,0,Normal
+13,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-380.png,2,Viral Pneumonia
+14,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-180.png,1,Covid
+15,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-934.png,1,Covid
+16,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-44.png,0,Normal
+17,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-28.png,2,Viral Pneumonia
+18,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-894.png,0,Normal
+19,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-294.png,0,Normal
+20,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1008.png,2,Viral Pneumonia
+21,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-267.png,1,Covid
+22,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-220.png,2,Viral Pneumonia
+23,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1258.png,2,Viral Pneumonia
+24,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-10153.png,0,Normal
+25,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1041.png,2,Viral Pneumonia
+26,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-1052.png,1,Covid
+27,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1307.png,2,Viral Pneumonia
+28,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-784.png,1,Covid
+29,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-211.png,0,Normal
+30,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-437.png,1,Covid
+31,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-10090.png,0,Normal
+32,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1028.png,2,Viral Pneumonia
+33,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-304.png,0,Normal
+34,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-962.png,1,Covid
+35,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-750.png,2,Viral Pneumonia
+36,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-465.png,2,Viral Pneumonia
+37,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-481.png,2,Viral Pneumonia
+38,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-10179.png,0,Normal
+39,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-732.png,1,Covid
+40,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-94.png,0,Normal
+41,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-893.png,2,Viral Pneumonia
+42,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-411.png,1,Covid
+43,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-9.png,1,Covid
+44,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-673.png,2,Viral Pneumonia
+45,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-870.png,1,Covid
+46,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-280.png,0,Normal
+47,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-171.png,1,Covid
+48,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-268.png,0,Normal
+49,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-688.png,0,Normal
+50,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-963.png,1,Covid
+51,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-65.png,1,Covid
+52,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-260.png,0,Normal
+53,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-756.png,1,Covid
+54,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-141.png,0,Normal
+55,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-112.png,0,Normal
+56,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-844.png,0,Normal
+57,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1261.png,2,Viral Pneumonia
+58,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1280.png,2,Viral Pneumonia
+59,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-570.png,1,Covid
+60,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-582.png,0,Normal
+61,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-878.png,1,Covid
+62,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-748.png,1,Covid
+63,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-958.png,0,Normal
+64,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1119.png,2,Viral Pneumonia
+65,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-455.png,2,Viral Pneumonia
+66,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-273.png,1,Covid
+67,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1215.png,2,Viral Pneumonia
+68,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-719.png,0,Normal
+69,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-786.png,0,Normal
+70,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-250.png,1,Covid
+71,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-390.png,0,Normal
+72,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-404.png,1,Covid
+73,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-795.png,1,Covid
+74,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-927.png,2,Viral Pneumonia
+75,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-10192.png,0,Normal
+76,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-608.png,0,Normal
+77,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-653.png,1,Covid
+78,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-660.png,0,Normal
+79,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-527.png,0,Normal
+80,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-505.png,0,Normal
+81,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-850.png,2,Viral Pneumonia
+82,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-10136.png,0,Normal
+83,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-964.png,1,Covid
+84,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-767.png,0,Normal
+85,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-440.png,2,Viral Pneumonia
+86,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-966.png,2,Viral Pneumonia
+87,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-83.png,2,Viral Pneumonia
+88,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1023.png,2,Viral Pneumonia
+89,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-10069.png,0,Normal
+90,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-828.png,2,Viral Pneumonia
+91,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-444.png,0,Normal
+92,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-976.png,1,Covid
+93,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-91.png,2,Viral Pneumonia
+94,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-408.png,2,Viral Pneumonia
+95,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-133.png,1,Covid
+96,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-267.png,0,Normal
+97,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-999.png,2,Viral Pneumonia
+98,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-121.png,1,Covid
+99,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-720.png,0,Normal
+100,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1185.png,2,Viral Pneumonia
+101,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-150.png,1,Covid
+102,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-668.png,0,Normal
+103,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-1062.png,1,Covid
+104,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-476.png,2,Viral Pneumonia
+105,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-1000.png,1,Covid
+106,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-799.png,2,Viral Pneumonia
+107,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-590.png,0,Normal
+108,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-136.png,2,Viral Pneumonia
+109,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-949.png,1,Covid
+110,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-10169.png,0,Normal
+111,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-840.png,2,Viral Pneumonia
+112,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1139.png,2,Viral Pneumonia
+113,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-646.png,0,Normal
+114,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-1065.png,0,Normal
+115,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-659.png,1,Covid
+116,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-347.png,0,Normal
+117,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-134.png,1,Covid
+118,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-124.png,2,Viral Pneumonia
+119,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-697.png,0,Normal
+120,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-267.png,2,Viral Pneumonia
+121,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-784.png,0,Normal
+122,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1256.png,2,Viral Pneumonia
+123,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-664.png,2,Viral Pneumonia
+124,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-340.png,2,Viral Pneumonia
+125,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-557.png,0,Normal
+126,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-959.png,2,Viral Pneumonia
+127,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-338.png,1,Covid
+128,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-24.png,0,Normal
+129,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-1051.png,1,Covid
+130,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-660.png,2,Viral Pneumonia
+131,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-2.png,1,Covid
+132,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-303.png,1,Covid
+133,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-404.png,2,Viral Pneumonia
+134,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-816.png,0,Normal
+135,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-10095.png,0,Normal
+136,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-286.png,2,Viral Pneumonia
+137,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-29.png,2,Viral Pneumonia
+138,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-445.png,0,Normal
+139,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-674.png,0,Normal
+140,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-394.png,1,Covid
+141,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-532.png,2,Viral Pneumonia
+142,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-811.png,0,Normal
+143,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-402.png,1,Covid
+144,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-77.png,1,Covid
+145,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-10082.png,0,Normal
+146,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-3.png,1,Covid
+147,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-125.png,1,Covid
+148,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-835.png,1,Covid
+149,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1175.png,2,Viral Pneumonia
+150,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-770.png,1,Covid
+151,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-883.png,0,Normal
+152,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-131.png,1,Covid
+153,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-751.png,2,Viral Pneumonia
+154,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-10100.png,0,Normal
+155,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-464.png,0,Normal
+156,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-767.png,2,Viral Pneumonia
+157,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1130.png,2,Viral Pneumonia
+158,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-174.png,0,Normal
+159,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-10037.png,0,Normal
+160,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-465.png,0,Normal
+161,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-699.png,1,Covid
+162,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-10051.png,0,Normal
+163,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-1017.png,0,Normal
+164,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-487.png,2,Viral Pneumonia
+165,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-913.png,1,Covid
+166,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-252.png,1,Covid
+167,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-891.png,0,Normal
+168,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-10132.png,0,Normal
+169,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-63.png,1,Covid
+170,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1026.png,2,Viral Pneumonia
+171,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-10060.png,0,Normal
+172,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-242.png,2,Viral Pneumonia
+173,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1034.png,2,Viral Pneumonia
+174,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-73.png,1,Covid
+175,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-10115.png,0,Normal
+176,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-147.png,2,Viral Pneumonia
+177,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-76.png,1,Covid
+178,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-944.png,2,Viral Pneumonia
+179,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-752.png,0,Normal
+180,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-836.png,2,Viral Pneumonia
+181,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-562.png,1,Covid
+182,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-907.png,2,Viral Pneumonia
+183,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1081.png,2,Viral Pneumonia
+184,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-10110.png,0,Normal
+185,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-676.png,2,Viral Pneumonia
+186,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-459.png,0,Normal
+187,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-942.png,1,Covid
+188,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-111.png,0,Normal
+189,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-35.png,0,Normal
+190,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-993.png,2,Viral Pneumonia
+191,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-118.png,0,Normal
+192,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-481.png,1,Covid
+193,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-634.png,2,Viral Pneumonia
+194,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-232.png,0,Normal
+195,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-450.png,0,Normal
+196,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-692.png,2,Viral Pneumonia
+197,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-509.png,2,Viral Pneumonia
+198,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1159.png,2,Viral Pneumonia
+199,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-726.png,1,Covid
+200,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-302.png,2,Viral Pneumonia
+201,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-841.png,1,Covid
+202,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-478.png,0,Normal
+203,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-731.png,0,Normal
+204,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-946.png,0,Normal
+205,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-610.png,1,Covid
+206,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-457.png,2,Viral Pneumonia
+207,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-714.png,0,Normal
+208,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1089.png,2,Viral Pneumonia
+209,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-887.png,2,Viral Pneumonia
+210,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-621.png,2,Viral Pneumonia
+211,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-905.png,1,Covid
+212,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-301.png,0,Normal
+213,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-309.png,2,Viral Pneumonia
+214,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-651.png,1,Covid
+215,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-652.png,1,Covid
+216,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-426.png,1,Covid
+217,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1323.png,2,Viral Pneumonia
+218,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1232.png,2,Viral Pneumonia
+219,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1163.png,2,Viral Pneumonia
+220,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-281.png,0,Normal
+221,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-440.png,1,Covid
+222,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-299.png,1,Covid
+223,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-900.png,0,Normal
+224,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-859.png,0,Normal
+225,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-212.png,2,Viral Pneumonia
+226,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-305.png,2,Viral Pneumonia
+227,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-156.png,0,Normal
+228,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-501.png,2,Viral Pneumonia
+229,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1046.png,2,Viral Pneumonia
+230,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1052.png,2,Viral Pneumonia
+231,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-443.png,2,Viral Pneumonia
+232,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-1015.png,1,Covid
+233,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-375.png,2,Viral Pneumonia
+234,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-585.png,1,Covid
+235,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-587.png,2,Viral Pneumonia
+236,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-385.png,2,Viral Pneumonia
+237,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-632.png,1,Covid
+238,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-358.png,2,Viral Pneumonia
+239,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1290.png,2,Viral Pneumonia
+240,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-249.png,0,Normal
+241,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-516.png,2,Viral Pneumonia
+242,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-545.png,2,Viral Pneumonia
+243,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-848.png,2,Viral Pneumonia
+244,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-797.png,1,Covid
+245,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-755.png,0,Normal
+246,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-308.png,2,Viral Pneumonia
+247,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-814.png,0,Normal
+248,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-200.png,1,Covid
+249,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-329.png,2,Viral Pneumonia
+250,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-426.png,0,Normal
+251,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-822.png,1,Covid
+252,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-919.png,0,Normal
+253,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-420.png,1,Covid
+254,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-894.png,2,Viral Pneumonia
+255,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-703.png,1,Covid
+256,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1013.png,2,Viral Pneumonia
+257,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-299.png,0,Normal
+258,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1193.png,2,Viral Pneumonia
+259,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-682.png,0,Normal
+260,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-95.png,1,Covid
+261,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-112.png,1,Covid
+262,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-209.png,1,Covid
+263,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-476.png,0,Normal
+264,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-455.png,1,Covid
+265,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-395.png,1,Covid
+266,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-920.png,2,Viral Pneumonia
+267,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-561.png,2,Viral Pneumonia
+268,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-221.png,2,Viral Pneumonia
+269,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-129.png,0,Normal
+270,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-950.png,0,Normal
+271,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-1039.png,0,Normal
+272,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-617.png,0,Normal
+273,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-644.png,0,Normal
+274,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-953.png,2,Viral Pneumonia
+275,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-607.png,2,Viral Pneumonia
+276,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-1036.png,0,Normal
+277,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-516.png,0,Normal
+278,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-538.png,0,Normal
+279,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-225.png,1,Covid
+280,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1152.png,2,Viral Pneumonia
+281,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-683.png,2,Viral Pneumonia
+282,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-832.png,0,Normal
+283,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-681.png,0,Normal
+284,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-810.png,2,Viral Pneumonia
+285,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-278.png,2,Viral Pneumonia
+286,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-459.png,1,Covid
+287,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-163.png,2,Viral Pneumonia
+288,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-233.png,1,Covid
+289,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-135.png,1,Covid
+290,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-364.png,1,Covid
+291,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-1050.png,0,Normal
+292,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-1062.png,0,Normal
+293,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-606.png,0,Normal
+294,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-900.png,2,Viral Pneumonia
+295,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-823.png,1,Covid
+296,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-451.png,0,Normal
+297,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-288.png,2,Viral Pneumonia
+298,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-452.png,1,Covid
+299,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-946.png,2,Viral Pneumonia
+300,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-418.png,1,Covid
+301,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-435.png,0,Normal
+302,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-439.png,0,Normal
+303,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-273.png,0,Normal
+304,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-353.png,0,Normal
+305,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-579.png,2,Viral Pneumonia
+306,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-855.png,0,Normal
+307,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-145.png,0,Normal
+308,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-117.png,0,Normal
+309,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-746.png,0,Normal
+310,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-110.png,2,Viral Pneumonia
+311,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-82.png,0,Normal
+312,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-649.png,0,Normal
+313,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-883.png,2,Viral Pneumonia
+314,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-691.png,0,Normal
+315,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-397.png,1,Covid
+316,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-83.png,1,Covid
+317,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-613.png,1,Covid
+318,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1124.png,2,Viral Pneumonia
+319,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-1081.png,1,Covid
+320,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-10.png,1,Covid
+321,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-296.png,0,Normal
+322,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-689.png,0,Normal
+323,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-751.png,0,Normal
+324,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-809.png,0,Normal
+325,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-229.png,1,Covid
+326,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1282.png,2,Viral Pneumonia
+327,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-410.png,0,Normal
+328,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-1041.png,0,Normal
+329,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-834.png,0,Normal
+330,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-1035.png,0,Normal
+331,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1329.png,2,Viral Pneumonia
+332,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-31.png,2,Viral Pneumonia
+333,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-1034.png,0,Normal
+334,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-975.png,2,Viral Pneumonia
+335,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-736.png,1,Covid
+336,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-570.png,0,Normal
+337,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-698.png,2,Viral Pneumonia
+338,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-968.png,1,Covid
+339,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-842.png,0,Normal
+340,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-559.png,1,Covid
+341,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-673.png,0,Normal
+342,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-10057.png,0,Normal
+343,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-1008.png,0,Normal
+344,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-954.png,1,Covid
+345,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-869.png,0,Normal
+346,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-262.png,1,Covid
+347,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-714.png,2,Viral Pneumonia
+348,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-949.png,2,Viral Pneumonia
+349,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-793.png,1,Covid
+350,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-695.png,2,Viral Pneumonia
+351,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-569.png,2,Viral Pneumonia
+352,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-961.png,1,Covid
+353,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-408.png,1,Covid
+354,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-32.png,0,Normal
+355,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-496.png,2,Viral Pneumonia
+356,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-186.png,1,Covid
+357,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-821.png,1,Covid
+358,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-955.png,1,Covid
+359,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-791.png,0,Normal
+360,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-522.png,2,Viral Pneumonia
+361,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-153.png,1,Covid
+362,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1212.png,2,Viral Pneumonia
+363,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-382.png,1,Covid
+364,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-591.png,2,Viral Pneumonia
+365,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-512.png,2,Viral Pneumonia
+366,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-859.png,1,Covid
+367,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-1057.png,1,Covid
+368,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-688.png,1,Covid
+369,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-10101.png,0,Normal
+370,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-90.png,2,Viral Pneumonia
+371,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-889.png,2,Viral Pneumonia
+372,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-2.png,2,Viral Pneumonia
+373,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-719.png,1,Covid
+374,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-737.png,1,Covid
+375,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1021.png,2,Viral Pneumonia
+376,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-567.png,0,Normal
+377,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-839.png,0,Normal
+378,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-487.png,0,Normal
+379,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1042.png,2,Viral Pneumonia
+380,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-190.png,0,Normal
+381,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-582.png,1,Covid
+382,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-229.png,2,Viral Pneumonia
+383,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-484.png,1,Covid
+384,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-977.png,0,Normal
+385,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-930.png,2,Viral Pneumonia
+386,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-378.png,1,Covid
+387,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-236.png,2,Viral Pneumonia
+388,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-187.png,0,Normal
+389,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-380.png,0,Normal
+390,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-293.png,1,Covid
+391,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-326.png,0,Normal
+392,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-999.png,1,Covid
+393,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-611.png,0,Normal
+394,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-352.png,0,Normal
+395,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-620.png,2,Viral Pneumonia
+396,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-600.png,2,Viral Pneumonia
+397,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-685.png,2,Viral Pneumonia
+398,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-195.png,1,Covid
+399,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-521.png,1,Covid
+400,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-697.png,1,Covid
+401,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-1011.png,1,Covid
+402,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-276.png,0,Normal
+403,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-10165.png,0,Normal
+404,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-316.png,1,Covid
+405,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-256.png,0,Normal
+406,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-108.png,2,Viral Pneumonia
+407,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-905.png,0,Normal
+408,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-10182.png,0,Normal
+409,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-553.png,1,Covid
+410,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-568.png,2,Viral Pneumonia
+411,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-163.png,1,Covid
+412,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-855.png,1,Covid
+413,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-10040.png,0,Normal
+414,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-10131.png,0,Normal
+415,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-534.png,1,Covid
+416,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-604.png,0,Normal
+417,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-23.png,1,Covid
+418,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-1010.png,0,Normal
+419,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-301.png,1,Covid
+420,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-183.png,2,Viral Pneumonia
+421,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-616.png,1,Covid
+422,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-296.png,2,Viral Pneumonia
+423,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-890.png,1,Covid
+424,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-252.png,0,Normal
+425,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-25.png,2,Viral Pneumonia
+426,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-10091.png,0,Normal
+427,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-96.png,1,Covid
+428,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-458.png,0,Normal
+429,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1197.png,2,Viral Pneumonia
+430,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-731.png,1,Covid
+431,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-369.png,1,Covid
+432,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-816.png,1,Covid
+433,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-231.png,2,Viral Pneumonia
+434,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-950.png,1,Covid
+435,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-10103.png,0,Normal
+436,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-184.png,0,Normal
+437,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-937.png,2,Viral Pneumonia
+438,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-457.png,1,Covid
+439,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-379.png,1,Covid
+440,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-1060.png,0,Normal
+441,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-1060.png,1,Covid
+442,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-385.png,1,Covid
+443,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-125.png,2,Viral Pneumonia
+444,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-752.png,1,Covid
+445,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-766.png,2,Viral Pneumonia
+446,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-129.png,2,Viral Pneumonia
+447,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-460.png,0,Normal
+448,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-852.png,0,Normal
+449,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-1019.png,0,Normal
+450,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-113.png,0,Normal
+451,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-548.png,2,Viral Pneumonia
+452,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-306.png,2,Viral Pneumonia
+453,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-935.png,0,Normal
+454,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-775.png,2,Viral Pneumonia
+455,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-807.png,1,Covid
+456,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-955.png,0,Normal
+457,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-283.png,0,Normal
+458,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-10151.png,0,Normal
+459,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-10109.png,0,Normal
+460,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-780.png,0,Normal
+461,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-407.png,1,Covid
+462,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-696.png,2,Viral Pneumonia
+463,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-226.png,0,Normal
+464,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-788.png,2,Viral Pneumonia
+465,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-103.png,2,Viral Pneumonia
+466,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-609.png,1,Covid
+467,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-693.png,2,Viral Pneumonia
+468,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1167.png,2,Viral Pneumonia
+469,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-962.png,0,Normal
+470,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-405.png,0,Normal
+471,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-836.png,0,Normal
+472,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-236.png,0,Normal
+473,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-794.png,1,Covid
+474,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-769.png,0,Normal
+475,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-139.png,0,Normal
+476,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-539.png,0,Normal
+477,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-337.png,2,Viral Pneumonia
+478,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-751.png,1,Covid
+479,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-843.png,2,Viral Pneumonia
+480,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-38.png,2,Viral Pneumonia
+481,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-864.png,1,Covid
+482,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-187.png,1,Covid
+483,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-735.png,2,Viral Pneumonia
+484,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-713.png,0,Normal
+485,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-960.png,1,Covid
+486,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-717.png,0,Normal
+487,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-225.png,2,Viral Pneumonia
+488,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-556.png,2,Viral Pneumonia
+489,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-135.png,2,Viral Pneumonia
+490,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-646.png,2,Viral Pneumonia
+491,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1090.png,2,Viral Pneumonia
+492,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-427.png,2,Viral Pneumonia
+493,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-278.png,1,Covid
+494,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-797.png,0,Normal
+495,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-597.png,2,Viral Pneumonia
+496,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-95.png,2,Viral Pneumonia
+497,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-786.png,2,Viral Pneumonia
+498,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-862.png,2,Viral Pneumonia
+499,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-237.png,0,Normal
+500,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-50.png,0,Normal
+501,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-134.png,0,Normal
+502,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-318.png,1,Covid
+503,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-123.png,1,Covid
+504,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-228.png,1,Covid
+505,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-565.png,1,Covid
+506,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1082.png,2,Viral Pneumonia
+507,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-15.png,0,Normal
+508,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-394.png,2,Viral Pneumonia
+509,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-363.png,2,Viral Pneumonia
+510,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1010.png,2,Viral Pneumonia
+511,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-10049.png,0,Normal
+512,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-940.png,2,Viral Pneumonia
+513,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-921.png,1,Covid
+514,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-771.png,0,Normal
+515,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-811.png,2,Viral Pneumonia
+516,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-392.png,2,Viral Pneumonia
+517,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1066.png,2,Viral Pneumonia
+518,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-663.png,0,Normal
+519,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-688.png,2,Viral Pneumonia
+520,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-343.png,2,Viral Pneumonia
+521,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-792.png,2,Viral Pneumonia
+522,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-180.png,0,Normal
+523,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-1007.png,0,Normal
+524,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-946.png,1,Covid
+525,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-127.png,0,Normal
+526,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-914.png,1,Covid
+527,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-847.png,0,Normal
+528,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-67.png,1,Covid
+529,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-986.png,1,Covid
+530,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-580.png,2,Viral Pneumonia
+531,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-363.png,1,Covid
+532,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-412.png,2,Viral Pneumonia
+533,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-710.png,0,Normal
+534,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-783.png,2,Viral Pneumonia
+535,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-872.png,2,Viral Pneumonia
+536,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-676.png,0,Normal
+537,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-983.png,0,Normal
+538,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-132.png,1,Covid
+539,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-578.png,2,Viral Pneumonia
+540,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-10044.png,0,Normal
+541,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-1033.png,0,Normal
+542,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-805.png,1,Covid
+543,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-330.png,1,Covid
+544,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-726.png,0,Normal
+545,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-164.png,2,Viral Pneumonia
+546,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-657.png,1,Covid
+547,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-224.png,1,Covid
+548,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1136.png,2,Viral Pneumonia
+549,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1216.png,2,Viral Pneumonia
+550,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-423.png,2,Viral Pneumonia
+551,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-64.png,2,Viral Pneumonia
+552,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-10041.png,0,Normal
+553,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-113.png,2,Viral Pneumonia
+554,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-861.png,2,Viral Pneumonia
+555,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-396.png,0,Normal
+556,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-357.png,1,Covid
+557,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-776.png,1,Covid
+558,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-983.png,2,Viral Pneumonia
+559,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-540.png,2,Viral Pneumonia
+560,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-874.png,0,Normal
+561,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-305.png,0,Normal
+562,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-166.png,2,Viral Pneumonia
+563,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-564.png,0,Normal
+564,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-659.png,0,Normal
+565,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-180.png,2,Viral Pneumonia
+566,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-257.png,1,Covid
+567,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1116.png,2,Viral Pneumonia
+568,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-412.png,0,Normal
+569,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-68.png,0,Normal
+570,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-636.png,2,Viral Pneumonia
+571,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-903.png,1,Covid
+572,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-40.png,2,Viral Pneumonia
+573,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-403.png,0,Normal
+574,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-777.png,1,Covid
+575,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-805.png,0,Normal
+576,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-69.png,0,Normal
+577,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-10058.png,0,Normal
+578,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-922.png,1,Covid
+579,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-1001.png,1,Covid
+580,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-177.png,2,Viral Pneumonia
+581,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-119.png,1,Covid
+582,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-10191.png,0,Normal
+583,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1164.png,2,Viral Pneumonia
+584,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-618.png,2,Viral Pneumonia
+585,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1033.png,2,Viral Pneumonia
+586,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-194.png,1,Covid
+587,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-1025.png,1,Covid
+588,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-401.png,2,Viral Pneumonia
+589,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1260.png,2,Viral Pneumonia
+590,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-6.png,0,Normal
+591,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1295.png,2,Viral Pneumonia
+592,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-193.png,0,Normal
+593,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-871.png,1,Covid
+594,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-961.png,0,Normal
+595,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-475.png,0,Normal
+596,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-4.png,1,Covid
+597,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-947.png,2,Viral Pneumonia
+598,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-21.png,0,Normal
+599,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-932.png,2,Viral Pneumonia
+600,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-143.png,0,Normal
+601,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-293.png,2,Viral Pneumonia
+602,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1029.png,2,Viral Pneumonia
+603,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-904.png,0,Normal
+604,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-37.png,0,Normal
+605,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-494.png,1,Covid
+606,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-859.png,2,Viral Pneumonia
+607,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-925.png,0,Normal
+608,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-655.png,2,Viral Pneumonia
+609,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-631.png,2,Viral Pneumonia
+610,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-323.png,1,Covid
+611,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-741.png,2,Viral Pneumonia
+612,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-142.png,2,Viral Pneumonia
+613,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-46.png,0,Normal
+614,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-647.png,1,Covid
+615,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-285.png,0,Normal
+616,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-767.png,1,Covid
+617,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-801.png,1,Covid
+618,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-175.png,1,Covid
+619,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-213.png,2,Viral Pneumonia
+620,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-10126.png,0,Normal
+621,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1157.png,2,Viral Pneumonia
+622,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-508.png,2,Viral Pneumonia
+623,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-981.png,2,Viral Pneumonia
+624,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-372.png,2,Viral Pneumonia
+625,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-487.png,1,Covid
+626,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-102.png,0,Normal
+627,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-337.png,1,Covid
+628,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-19.png,1,Covid
+629,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-911.png,0,Normal
+630,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-989.png,2,Viral Pneumonia
+631,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-912.png,1,Covid
+632,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-612.png,1,Covid
+633,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-231.png,1,Covid
+634,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-503.png,1,Covid
+635,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-847.png,2,Viral Pneumonia
+636,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-111.png,2,Viral Pneumonia
+637,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-524.png,0,Normal
+638,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1326.png,2,Viral Pneumonia
+639,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-334.png,1,Covid
+640,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-242.png,1,Covid
+641,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-10142.png,0,Normal
+642,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-78.png,2,Viral Pneumonia
+643,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-715.png,2,Viral Pneumonia
+644,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-478.png,1,Covid
+645,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-804.png,0,Normal
+646,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-675.png,0,Normal
+647,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-874.png,2,Viral Pneumonia
+648,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-384.png,1,Covid
+649,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1076.png,2,Viral Pneumonia
+650,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-56.png,0,Normal
+651,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-453.png,1,Covid
+652,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-541.png,1,Covid
+653,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-831.png,1,Covid
+654,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-846.png,2,Viral Pneumonia
+655,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-930.png,1,Covid
+656,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-230.png,2,Viral Pneumonia
+657,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-631.png,1,Covid
+658,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-757.png,1,Covid
+659,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-700.png,0,Normal
+660,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-772.png,2,Viral Pneumonia
+661,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-139.png,1,Covid
+662,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-960.png,0,Normal
+663,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-590.png,2,Viral Pneumonia
+664,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-810.png,0,Normal
+665,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-822.png,0,Normal
+666,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-997.png,1,Covid
+667,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-491.png,1,Covid
+668,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-10163.png,0,Normal
+669,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-431.png,1,Covid
+670,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-10061.png,0,Normal
+671,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-781.png,2,Viral Pneumonia
+672,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-537.png,0,Normal
+673,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-601.png,0,Normal
+674,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-793.png,2,Viral Pneumonia
+675,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-903.png,2,Viral Pneumonia
+676,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-874.png,1,Covid
+677,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-888.png,2,Viral Pneumonia
+678,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-936.png,2,Viral Pneumonia
+679,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-207.png,2,Viral Pneumonia
+680,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-799.png,1,Covid
+681,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-177.png,0,Normal
+682,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-105.png,2,Viral Pneumonia
+683,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-852.png,2,Viral Pneumonia
+684,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-199.png,0,Normal
+685,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-918.png,2,Viral Pneumonia
+686,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-780.png,1,Covid
+687,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-89.png,0,Normal
+688,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-952.png,2,Viral Pneumonia
+689,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-277.png,2,Viral Pneumonia
+690,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-728.png,1,Covid
+691,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1007.png,2,Viral Pneumonia
+692,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-110.png,0,Normal
+693,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-585.png,0,Normal
+694,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-80.png,2,Viral Pneumonia
+695,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-565.png,2,Viral Pneumonia
+696,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-667.png,1,Covid
+697,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-698.png,1,Covid
+698,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-217.png,1,Covid
+699,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-191.png,0,Normal
+700,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-797.png,2,Viral Pneumonia
+701,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-349.png,1,Covid
+702,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1243.png,2,Viral Pneumonia
+703,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-584.png,2,Viral Pneumonia
+704,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1086.png,2,Viral Pneumonia
+705,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-236.png,1,Covid
+706,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-920.png,1,Covid
+707,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-147.png,1,Covid
+708,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-1022.png,1,Covid
+709,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-47.png,2,Viral Pneumonia
+710,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-10113.png,0,Normal
+711,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-518.png,2,Viral Pneumonia
+712,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1099.png,2,Viral Pneumonia
+713,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-672.png,2,Viral Pneumonia
+714,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-115.png,0,Normal
+715,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-668.png,1,Covid
+716,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-91.png,1,Covid
+717,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-59.png,2,Viral Pneumonia
+718,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-146.png,1,Covid
+719,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1325.png,2,Viral Pneumonia
+720,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-156.png,2,Viral Pneumonia
+721,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1187.png,2,Viral Pneumonia
+722,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-451.png,2,Viral Pneumonia
+723,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-705.png,0,Normal
+724,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-789.png,0,Normal
+725,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1068.png,2,Viral Pneumonia
+726,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-85.png,2,Viral Pneumonia
+727,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-315.png,2,Viral Pneumonia
+728,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-458.png,2,Viral Pneumonia
+729,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-934.png,0,Normal
+730,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images/COVID-628.png,1,Covid
+731,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-970.png,2,Viral Pneumonia
+732,/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images/Normal-203.png,0,Normal

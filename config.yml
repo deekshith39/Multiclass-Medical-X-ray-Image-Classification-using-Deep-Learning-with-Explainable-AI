@@ -1,0 +1,11 @@
+PATHS:
+  COVID: '/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/COVID/images'
+  NORMAL: '/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Normal/images'
+  PNEUMONIA: '/content/drive/MyDrive/FP/COVID-19_Radiography_Dataset/Viral Pneumonia/images'
+  TRAIN_SET: '/content/drive/MyDrive/FP/processed/train_data.csv'
+  TEST_SET: '/content/drive/MyDrive/FP/processed/test_data.csv'
+  VALID_SET: '/content/drive/MyDrive/FP/processed/test_data.csv'
+  XCEPTION: '/content/drive/MyDrive/FP/models/xception_model.h5'
+  RESNET: '/content/drive/MyDrive/FP/models/resnet_model.h5'
+  VGG: '/content/drive/MyDrive/FP/models/vgg_model.h5'
+  GRAPHS: '/content/drive/MyDrive/FP/graphs/'
